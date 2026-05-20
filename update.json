@@ -1,6 +1,6 @@
 {
-  "latest_version": 2,
-  "version_name": "1.0.1",
+  "latest_version": 1,
+  "version_name": "1.0",
   "force_update": true,
   "update_url": "https://github.com/cashblipurl/sos-app-updates/releases/download/App/app-debug.apk",
   "message": "🚨 Critical update: Improved SOS reliability & bug fixes"
